@@ -4,11 +4,11 @@ go 1.15
 
 require (
 	github.com/felixge/httpsnoop v1.0.1
-	github.com/go-openapi/errors v0.19.6
+	github.com/go-openapi/errors v0.20.2
 	github.com/go-openapi/loads v0.19.5
 	github.com/go-openapi/runtime v0.19.21
 	github.com/go-openapi/spec v0.19.9
-	github.com/go-openapi/strfmt v0.19.5
+	github.com/go-openapi/strfmt v0.21.3
 	github.com/go-openapi/swag v0.19.9
 	github.com/go-openapi/validate v0.19.10
 	github.com/golang/mock v1.4.4
@@ -24,5 +24,5 @@ require (
 	github.com/smartystreets/goconvey v1.6.4
 	github.com/spf13/cobra v1.0.0
 	github.com/spf13/pflag v1.0.5
-	golang.org/x/net v0.0.0-20200822124328-c89045814202
+	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2
 )
