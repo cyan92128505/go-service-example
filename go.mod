@@ -3,7 +3,6 @@ module github.com/powerman/go-service-example
 go 1.15
 
 require (
-	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/felixge/httpsnoop v1.0.3
 	github.com/go-openapi/errors v0.20.3
@@ -18,7 +17,7 @@ require (
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/jessevdk/go-flags v1.5.0
 	github.com/powerman/appcfg v0.9.0
-	github.com/powerman/check v1.6.0
+	github.com/powerman/check v1.7.0
 	github.com/powerman/getenv v0.1.0
 	github.com/powerman/must v0.1.1
 	github.com/powerman/structlog v0.7.3
