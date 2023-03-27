@@ -11,7 +11,7 @@ require (
 	github.com/go-openapi/loads v0.21.2
 	github.com/go-openapi/runtime v0.25.0
 	github.com/go-openapi/spec v0.20.8
-	github.com/go-openapi/strfmt v0.21.3
+	github.com/go-openapi/strfmt v0.21.7
 	github.com/go-openapi/swag v0.22.3
 	github.com/go-openapi/validate v0.22.1
 	github.com/golang/mock v1.6.0
@@ -30,7 +30,6 @@ require (
 	github.com/smartystreets/goconvey v1.7.2
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/pflag v1.0.5
-	go.mongodb.org/mongo-driver v1.11.2 // indirect
 	go.opentelemetry.io/otel v1.14.0 // indirect
 	golang.org/x/net v0.7.0
 )
