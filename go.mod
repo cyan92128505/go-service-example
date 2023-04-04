@@ -15,7 +15,6 @@ require (
 	github.com/go-openapi/swag v0.22.3
 	github.com/go-openapi/validate v0.22.1
 	github.com/golang/mock v1.6.0
-	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/jessevdk/go-flags v1.5.0
 	github.com/powerman/appcfg v0.9.0
 	github.com/powerman/check v1.6.0
@@ -28,7 +27,7 @@ require (
 	github.com/rs/cors v1.8.3
 	github.com/sebest/xff v0.0.0-20210106013422-671bd2870b3a
 	github.com/smartystreets/goconvey v1.7.2
-	github.com/spf13/cobra v1.6.1
+	github.com/spf13/cobra v1.7.0
 	github.com/spf13/pflag v1.0.5
 	go.mongodb.org/mongo-driver v1.11.2 // indirect
 	go.opentelemetry.io/otel v1.14.0 // indirect
