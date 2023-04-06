@@ -32,5 +32,5 @@ require (
 	github.com/spf13/pflag v1.0.5
 	go.mongodb.org/mongo-driver v1.11.2 // indirect
 	go.opentelemetry.io/otel v1.14.0 // indirect
-	golang.org/x/net v0.7.0
+	golang.org/x/net v0.9.0
 )
